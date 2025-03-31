@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_ZeusKanaboBladelink.label>zeus синхроканобо</CAT_ZeusKanaboBladelink.label>
+  <CAT_ZeusKanaboBladelink.description>Большая дубина восточного дизайна, оснащённая встроенным конденсатором ЭМИ. Легенды гласят, что это оружие используют огромные рогатые гуманоиды, окутанные разрядами молний.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusKanaboBladelink.description>
+  <CAT_ZeusKanaboBladelink.tools.0.label>рукоять</CAT_ZeusKanaboBladelink.tools.0.label>
+  <CAT_ZeusKanaboBladelink.tools.1.label>навершие</CAT_ZeusKanaboBladelink.tools.1.label>
+
+  <CAT_ZeusQuarterstaffBladelink.label>zeus боевой синхропосох</CAT_ZeusQuarterstaffBladelink.label>
+  <CAT_ZeusQuarterstaffBladelink.description>Длинный боевой посох со встроенным конденсатором ЭМИ.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusQuarterstaffBladelink.description>
+  <CAT_ZeusQuarterstaffBladelink.tools.0.label>навершие</CAT_ZeusQuarterstaffBladelink.tools.0.label>
+  <CAT_ZeusQuarterstaffBladelink.tools.1.label>древко</CAT_ZeusQuarterstaffBladelink.tools.1.label>
+
+  <CAT_ZeusNunchucksBladelink.label>zeus синхронунчаки</CAT_ZeusNunchucksBladelink.label>
+  <CAT_ZeusNunchucksBladelink.description>Короткие сегментированные нунчаки с импульсными конденсаторами на концах. Неуклюжие в ближнем бою, но в умелых руках превращаются в оружие сокрушительной мощности.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusNunchucksBladelink.description>
+  <CAT_ZeusNunchucksBladelink.tools.0.label>рукоять</CAT_ZeusNunchucksBladelink.tools.0.label>
+  <CAT_ZeusNunchucksBladelink.tools.1.label>навершие</CAT_ZeusNunchucksBladelink.tools.1.label>
+
+  <CAT_ZeusJianBladelink.label>zeus синхроцзянь</CAT_ZeusJianBladelink.label>
+  <CAT_ZeusJianBladelink.description>Древний восточный клинок-дубинка с встроенным конденсатором ЭМИ.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusJianBladelink.description>
+  <CAT_ZeusJianBladelink.tools.0.label>рукоять</CAT_ZeusJianBladelink.tools.0.label>
+  <CAT_ZeusJianBladelink.tools.1.label>цель</CAT_ZeusJianBladelink.tools.1.label>
+  <CAT_ZeusJianBladelink.tools.2.label>лезвие</CAT_ZeusJianBladelink.tools.2.label>
+
+  <CAT_ZeusTomeBladelink.label>zeus синхрофолиант</CAT_ZeusTomeBladelink.label>
+  <CAT_ZeusTomeBladelink.description>Тяжелый металлический фолиант со встроенным конденсатором ЭМИ, часто используемый проповедниками Сверкающего Мира.
+		\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusTomeBladelink.description>
+  <CAT_ZeusTomeBladelink.comps.0.verbProps.0.label>кара</CAT_ZeusTomeBladelink.comps.0.verbProps.0.label>
+  <CAT_ZeusTomeBladelink.verbs.0.label>покарать</CAT_ZeusTomeBladelink.verbs.0.label>
+  <CAT_ZeusTomeBladelink.tools.0.label>тело</CAT_ZeusTomeBladelink.tools.0.label>
+
+  <CAT_ZeusBatonBladelink.label>zeus синхродубина</CAT_ZeusBatonBladelink.label>
+  <CAT_ZeusBatonBladelink.description>Дубинка со встроенным ЭМИ-конденсатором, стандартное оружие полиции Сверкающего Мира для подавления беспорядков.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusBatonBladelink.description>
+  <CAT_ZeusBatonBladelink.tools.0.label>рукоять</CAT_ZeusBatonBladelink.tools.0.label>
+  <CAT_ZeusBatonBladelink.tools.1.label>навершие</CAT_ZeusBatonBladelink.tools.1.label>
+  <CAT_ZeusBatonBladelink.tools.2.label>лезвие</CAT_ZeusBatonBladelink.tools.2.label>
+
+  <CAT_ZeusGreathammerBladelink.label>zeus тяжелый боевой синхромолот</CAT_ZeusGreathammerBladelink.label>
+  <CAT_ZeusGreathammerBladelink.description>Громадный молот со встроенным конденсатором ЭМИ, дополненный лезвием топора для повышения боевой универсальности.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ZeusGreathammerBladelink.description>
+  <CAT_ZeusGreathammerBladelink.tools.0.label>рукоять</CAT_ZeusGreathammerBladelink.tools.0.label>
+  <CAT_ZeusGreathammerBladelink.tools.1.label>клинок</CAT_ZeusGreathammerBladelink.tools.1.label>
+  <CAT_ZeusGreathammerBladelink.tools.2.label>навершие</CAT_ZeusGreathammerBladelink.tools.2.label>
+
+
+</LanguageData>

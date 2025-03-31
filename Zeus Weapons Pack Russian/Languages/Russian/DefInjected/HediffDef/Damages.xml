@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_ProddedHD.label>проколото</CAT_ProddedHD.label>
+  <CAT_ProddedHD.description>Колотая рана.</CAT_ProddedHD.description>
+  <CAT_ProddedHD.comps.0.labelTendedWell>перевязанна</CAT_ProddedHD.comps.0.labelTendedWell>
+  <CAT_ProddedHD.comps.0.labelTendedWellInner>зашито</CAT_ProddedHD.comps.0.labelTendedWellInner>
+  <CAT_ProddedHD.comps.0.labelSolidTendedWell>установленно</CAT_ProddedHD.comps.0.labelSolidTendedWell>
+  <CAT_ProddedHD.injuryProps.destroyedLabel>Раздавленный</CAT_ProddedHD.injuryProps.destroyedLabel>
+  <CAT_ProddedHD.labelNoun>колотая рана</CAT_ProddedHD.labelNoun>
+
+
+</LanguageData>

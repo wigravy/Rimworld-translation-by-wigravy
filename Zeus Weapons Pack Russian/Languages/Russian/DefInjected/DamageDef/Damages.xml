@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_Smash.label>атака престижным молотом</CAT_Smash.label>
+  <CAT_Smash.deathMessage>{0} размазало насмерть.</CAT_Smash.deathMessage>
+
+  <CAT_ProddedDamage.deathMessage>{0} был убит.</CAT_ProddedDamage.deathMessage>
+
+
+</LanguageData>

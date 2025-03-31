@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Zeus Weapons Pack Russian</name>
+  <author>wigravy</author>
+  <packageId>wigravy.ZeusPackRu</packageId>
+  <supportedVersions>
+	<li>1.4</li>
+	<li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+	<li>
+	  <packageId>CAT.ZeusPack</packageId>
+	  <displayName>Zeus Weapons Pack</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3178662393</steamWorkshopUrl>
+	</li>
+  </modDependencies>
+  <description>
+</description>
+  <loadAfter>
+      <li>CAT.ZeusPack</li>
+  </loadAfter>
+</ModMetaData>
