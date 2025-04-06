@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Plasma Weapons Pack Russian</name>
+  <author>wigravy</author>
+  <packageId>wigravy.PlasmaPackRu</packageId>
+  <supportedVersions>
+	<li>1.4</li>
+	<li>1.5</li>
+  </supportedVersions>
+  <modDependencies>
+	<li>
+	  <packageId>CAT.PlasmaPack</packageId>
+	  <displayName>Plasma Weapons Pack</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3070942578</steamWorkshopUrl>
+	</li>
+  </modDependencies>
+  <description>
+</description>
+  <loadAfter>
+      <li>CAT.PlasmaPack</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_SplitDamage.label>разделен</CAT_SplitDamage.label>
+  <CAT_SplitDamage.deathMessage>{0} был разделен насмерть.</CAT_SplitDamage.deathMessage>
+
+  <CAT_GrievousCut.label>тяжкий порез</CAT_GrievousCut.label>
+  <CAT_GrievousCut.deathMessage>{0} has been reaped.</CAT_GrievousCut.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_PrestigePlasmaSwordBladelink.label>престижный stellic плазмомеч</CAT_PrestigePlasmaSwordBladelink.label>
+  <CAT_PrestigePlasmaSwordBladelink.description>Исключительно искусно изготовленное оружие с металлическим сердечником, окружённым плазмой. Символизирует доверие монарха к своему вассалу.
+\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PrestigePlasmaSwordBladelink.description>
+  <CAT_PrestigePlasmaSwordBladelink.tools.0.label>рукоять</CAT_PrestigePlasmaSwordBladelink.tools.0.label>
+  <CAT_PrestigePlasmaSwordBladelink.tools.1.label>острие</CAT_PrestigePlasmaSwordBladelink.tools.1.label>
+  <CAT_PrestigePlasmaSwordBladelink.tools.2.label>лезвие</CAT_PrestigePlasmaSwordBladelink.tools.2.label>
+
+  <CAT_PrestigePlasmaGreataxeBladelink.label>престижный stellic двуручный топор</CAT_PrestigePlasmaGreataxeBladelink.label>
+  <CAT_PrestigePlasmaGreataxeBladelink.description>Исключительно искусно изготовленное оружие с металлическим сердечником, окружённым плазмой. Символизирует доверие монарха к своему вассалу.
+\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PrestigePlasmaGreataxeBladelink.description>
+  <CAT_PrestigePlasmaGreataxeBladelink.tools.0.label>рукоять</CAT_PrestigePlasmaGreataxeBladelink.tools.0.label>
+  <CAT_PrestigePlasmaGreataxeBladelink.tools.1.label>разрубание</CAT_PrestigePlasmaGreataxeBladelink.tools.1.label>
+
+
+</LanguageData>
