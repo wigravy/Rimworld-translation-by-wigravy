@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CAT_PlasmaGreatsword.label>plasma двуручный меч</CAT_PlasmaGreatsword.label>
+  <CAT_PlasmaGreatsword.label>плазменный двуручный меч</CAT_PlasmaGreatsword.label>
   <CAT_PlasmaGreatsword.description>Кристально-металлический длинный меч, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Это двуручная версия традиционного моно-меча.</CAT_PlasmaGreatsword.description>
   <CAT_PlasmaGreatsword.tools.0.label>рукоять</CAT_PlasmaGreatsword.tools.0.label>
   <CAT_PlasmaGreatsword.tools.1.label>острие</CAT_PlasmaGreatsword.tools.1.label>
   <CAT_PlasmaGreatsword.tools.2.label>лезвие</CAT_PlasmaGreatsword.tools.2.label>
 
-  <CAT_PlasmaGreatswordBladelink.label>plasma двуручный синхромеч</CAT_PlasmaGreatswordBladelink.label>
+  <CAT_PlasmaGreatswordBladelink.label>плазменный двуручный синхромеч</CAT_PlasmaGreatswordBladelink.label>
   <CAT_PlasmaGreatswordBladelink.description>Кристально-металлический длинный меч, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Это двуручная версия традиционного моно-меча.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaGreatswordBladelink.description>
   <CAT_PlasmaGreatswordBladelink.tools.0.label>рукоять</CAT_PlasmaGreatswordBladelink.tools.0.label>

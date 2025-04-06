@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_ToxStellicPolearmBladelink.label>престижный stellic полеарм</CAT_ToxStellicPolearmBladelink.label>
+  <CAT_ToxStellicPolearmBladelink.description>Несмотря на королевские украшения, они не скрывают зловещую природу этого древкового оружия. Оно символизирует доверие монарха к своему вассалу.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxStellicPolearmBladelink.description>
+  <CAT_ToxStellicPolearmBladelink.tools.0.label>древко</CAT_ToxStellicPolearmBladelink.tools.0.label>
+  <CAT_ToxStellicPolearmBladelink.tools.1.label>навершие</CAT_ToxStellicPolearmBladelink.tools.1.label>
+  <CAT_ToxStellicPolearmBladelink.tools.2.label>лезвие</CAT_ToxStellicPolearmBladelink.tools.2.label>
+
+  <CAT_ToxStellicThuribleBladelink.label>престижное stellic кадило</CAT_ToxStellicThuribleBladelink.label>
+  <CAT_ToxStellicThuribleBladelink.description>Церемониальное цепное оружие, используемое духовенством Империи. Оно символизирует доверие монарха к своему вассалу.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxStellicThuribleBladelink.description>
+  <CAT_ToxStellicThuribleBladelink.tools.0.label>рукоять</CAT_ToxStellicThuribleBladelink.tools.0.label>
+  <CAT_ToxStellicThuribleBladelink.tools.1.label>курильница</CAT_ToxStellicThuribleBladelink.tools.1.label>
+
+
+</LanguageData>

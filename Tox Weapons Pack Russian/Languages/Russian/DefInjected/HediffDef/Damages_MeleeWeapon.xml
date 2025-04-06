@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_GrievousToxCutHediff.label>grievous cut</CAT_GrievousToxCutHediff.label>
+  <CAT_GrievousToxCutHediff.description>A grievous cut.</CAT_GrievousToxCutHediff.description>
+  <CAT_GrievousToxCutHediff.comps.0.labelTendedWell>bandaged</CAT_GrievousToxCutHediff.comps.0.labelTendedWell>
+  <CAT_GrievousToxCutHediff.comps.0.labelTendedWellInner>sutured</CAT_GrievousToxCutHediff.comps.0.labelTendedWellInner>
+  <CAT_GrievousToxCutHediff.comps.0.labelSolidTendedWell>set</CAT_GrievousToxCutHediff.comps.0.labelSolidTendedWell>
+  <CAT_GrievousToxCutHediff.injuryProps.destroyedLabel>Mutilated</CAT_GrievousToxCutHediff.injuryProps.destroyedLabel>
+  <CAT_GrievousToxCutHediff.injuryProps.destroyedOutLabel>Gouged out</CAT_GrievousToxCutHediff.injuryProps.destroyedOutLabel>
+  <CAT_GrievousToxCutHediff.labelNoun>a grievous cut</CAT_GrievousToxCutHediff.labelNoun>
+
+
+</LanguageData>

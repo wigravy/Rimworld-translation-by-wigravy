@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CAT_ZeusKanabo.label>zeus канобо</CAT_ZeusKanabo.label>
+  <CAT_ZeusKanabo.label>громовое канобо</CAT_ZeusKanabo.label>
   <CAT_ZeusKanabo.description>Большая дубина восточного дизайна, оснащённая встроенным конденсатором ЭМИ. Легенды гласят, что это оружие используют огромные рогатые гуманоиды, окутанные разрядами молний.</CAT_ZeusKanabo.description>
   <CAT_ZeusKanabo.tools.0.label>рукоять</CAT_ZeusKanabo.tools.0.label>
   <CAT_ZeusKanabo.tools.1.label>навершие</CAT_ZeusKanabo.tools.1.label>
 
-  <CAT_ZeusQuarterstaff.label>zeus боевой посох</CAT_ZeusQuarterstaff.label>
+  <CAT_ZeusQuarterstaff.label>громовой боевой посох</CAT_ZeusQuarterstaff.label>
   <CAT_ZeusQuarterstaff.description>Длинный боевой посох со встроенным конденсатором ЭМИ.</CAT_ZeusQuarterstaff.description>
   <CAT_ZeusQuarterstaff.tools.0.label>навершие</CAT_ZeusQuarterstaff.tools.0.label>
   <CAT_ZeusQuarterstaff.tools.1.label>древко</CAT_ZeusQuarterstaff.tools.1.label>
 
-  <CAT_ZeusNunchucks.label>zeus нунчаки</CAT_ZeusNunchucks.label>
+  <CAT_ZeusNunchucks.label>громовые нунчаки</CAT_ZeusNunchucks.label>
   <CAT_ZeusNunchucks.description>Короткие сегментированные нунчаки с импульсными конденсаторами на концах. Неуклюжие в ближнем бою, но в умелых руках превращаются в оружие сокрушительной мощности.</CAT_ZeusNunchucks.description>
   <CAT_ZeusNunchucks.tools.0.label>рукоять</CAT_ZeusNunchucks.tools.0.label>
   <CAT_ZeusNunchucks.tools.1.label>навершие</CAT_ZeusNunchucks.tools.1.label>
 
-  <CAT_ZeusJian.label>zeus цзянь</CAT_ZeusJian.label>
+  <CAT_ZeusJian.label>громовой цзянь</CAT_ZeusJian.label>
   <CAT_ZeusJian.description>Древний восточный клинок-дубинка с встроенным конденсатором ЭМИ.</CAT_ZeusJian.description>
   <CAT_ZeusJian.tools.0.label>рукоять</CAT_ZeusJian.tools.0.label>
   <CAT_ZeusJian.tools.1.label>цель</CAT_ZeusJian.tools.1.label>
@@ -24,19 +24,19 @@
 
   <CAT_ZeusTomeProjectile.label>кара</CAT_ZeusTomeProjectile.label>
 
-  <CAT_ZeusTome.label>zeus фолиант</CAT_ZeusTome.label>
+  <CAT_ZeusTome.label>громовой фолиант</CAT_ZeusTome.label>
   <CAT_ZeusTome.description>Тяжелый металлический фолиант со встроенным конденсатором ЭМИ, часто используемый проповедниками Сверкающего Мира.</CAT_ZeusTome.description>
   <CAT_ZeusTome.comps.0.verbProps.0.label>карой</CAT_ZeusTome.comps.0.verbProps.0.label>
   <CAT_ZeusTome.verbs.0.label>покарать</CAT_ZeusTome.verbs.0.label>
   <CAT_ZeusTome.tools.0.label>тело</CAT_ZeusTome.tools.0.label>
 
-  <CAT_ZeusBaton.label>zeus дубина</CAT_ZeusBaton.label>
+  <CAT_ZeusBaton.label>громовая дубина</CAT_ZeusBaton.label>
   <CAT_ZeusBaton.description>Дубинка со встроенным ЭМИ-конденсатором, стандартное оружие полиции Сверкающего Мира для подавления беспорядков.</CAT_ZeusBaton.description>
   <CAT_ZeusBaton.tools.0.label>рукоять</CAT_ZeusBaton.tools.0.label>
   <CAT_ZeusBaton.tools.1.label>навершие</CAT_ZeusBaton.tools.1.label>
   <CAT_ZeusBaton.tools.2.label>лезвие</CAT_ZeusBaton.tools.2.label>
 
-  <CAT_ZeusGreathammer.label>zeus тяжелый боевой молот</CAT_ZeusGreathammer.label>
+  <CAT_ZeusGreathammer.label>громовой тяжелый боевой молот</CAT_ZeusGreathammer.label>
   <CAT_ZeusGreathammer.description>Громадный молот со встроенным конденсатором ЭМИ, дополненный лезвием топора для повышения боевой универсальности.</CAT_ZeusGreathammer.description>
   <CAT_ZeusGreathammer.tools.0.label>рукоять</CAT_ZeusGreathammer.tools.0.label>
   <CAT_ZeusGreathammer.tools.1.label>клинок</CAT_ZeusGreathammer.tools.1.label>

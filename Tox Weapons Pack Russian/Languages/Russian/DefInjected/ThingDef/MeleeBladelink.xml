@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_ToxRapierBladelink.label>токсичная синхрорапира</CAT_ToxRapierBladelink.label>
+  <CAT_ToxRapierBladelink.description>Коварное оружие космических убийц и наёмников. Сочетает лезвие, насыщенное механитами, с эффектом кислотного распада.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxRapierBladelink.description>
+  <CAT_ToxRapierBladelink.tools.0.label>рукоять</CAT_ToxRapierBladelink.tools.0.label>
+  <CAT_ToxRapierBladelink.tools.1.label>навершие</CAT_ToxRapierBladelink.tools.1.label>
+  <CAT_ToxRapierBladelink.tools.2.label>клинок</CAT_ToxRapierBladelink.tools.2.label>
+
+  <CAT_ToxCurvedBladeBladelink.label>токсичный изогнутый синхроклинок</CAT_ToxCurvedBladeBladelink.label>
+  <CAT_ToxCurvedBladeBladelink.description>Быстрый изогнутый клинок с заточенной кромкой, насыщенной механитами и кислотным эффектом.
+    \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxCurvedBladeBladelink.description>
+  <CAT_ToxCurvedBladeBladelink.tools.0.label>рукоять</CAT_ToxCurvedBladeBladelink.tools.0.label>
+  <CAT_ToxCurvedBladeBladelink.tools.1.label>навершие</CAT_ToxCurvedBladeBladelink.tools.1.label>
+  <CAT_ToxCurvedBladeBladelink.tools.2.label>клинок</CAT_ToxCurvedBladeBladelink.tools.2.label>
+
+  <CAT_ToxScytheBladelink.label>токсичная синхрокоса</CAT_ToxScytheBladelink.label>
+  <CAT_ToxScytheBladelink.description>Зловещая коса с лезвием, насыщенным механитами и кислотным эффектом.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxScytheBladelink.description>
+  <CAT_ToxScytheBladelink.tools.0.label>рукоять</CAT_ToxScytheBladelink.tools.0.label>
+  <CAT_ToxScytheBladelink.tools.1.label>клинок</CAT_ToxScytheBladelink.tools.1.label>
+
+  <CAT_ToxGauntletBladelink.label>токсичная синхроперчатка</CAT_ToxGauntletBladelink.label>
+  <CAT_ToxGauntletBladelink.description>Перчатка с выдвижным лезвием, насыщенным кислотными механитами, и встроенным метателем игл.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxGauntletBladelink.description>
+<!--  <CAT_ToxGauntletBladelink.comps.0.verbProps.0.label>fletcher dart</CAT_ToxGauntletBladelink.comps.0.verbProps.0.label>-->
+  <CAT_ToxGauntletBladelink.verbs.0.label>метательная игла</CAT_ToxGauntletBladelink.verbs.0.label>
+  <CAT_ToxGauntletBladelink.tools.0.label>навершие</CAT_ToxGauntletBladelink.tools.0.label>
+
+  <CAT_ToxSpinningBladeBladelink.label>токсичный вращающийся клинок</CAT_ToxSpinningBladeBladelink.label>
+
+  <CAT_ToxTribladeBladelink.label>токсичный трехлезвийный синхроклинок</CAT_ToxTribladeBladelink.label>
+  <CAT_ToxTribladeBladelink.description>Громоздкий токсичный клинок, требующий серьёзной подготовки для эффективного использования.
+	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_ToxTribladeBladelink.description>
+<!--  <CAT_ToxTribladeBladelink.comps.0.verbProps.0.label>persona tox spinning blade</CAT_ToxTribladeBladelink.comps.0.verbProps.0.label>-->
+  <CAT_ToxTribladeBladelink.verbs.0.label>токсичный вращающийся клинок</CAT_ToxTribladeBladelink.verbs.0.label>
+  <CAT_ToxTribladeBladelink.tools.0.label>навершие</CAT_ToxTribladeBladelink.tools.0.label>
+
+
+</LanguageData>

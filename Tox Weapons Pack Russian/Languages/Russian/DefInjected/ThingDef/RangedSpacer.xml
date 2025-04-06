@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_Fletcher_Crossbow.label>fletcher crossbow</CAT_Fletcher_Crossbow.label>
+  <CAT_Fletcher_Crossbow.description>Компактный арбалет, стреляющий болтами с кислотными инжекторами. Тяжёлые болты легко пробивают броню, делая оружие смертоносным как для органических целей, так и для механитоидов.\n\nПопадание таким болтом впрыскивает нестабильную вариацию кислотного раствора, разработанную для растворения цели изнутри, а не повреждения её экипировки. Кислота распространяется по телу жертвы, обычно растворяя жизненно важные органы, однако летальный исход не гарантирован.</CAT_Fletcher_Crossbow.description>
+  <CAT_Fletcher_Crossbow.tools.0.label>рукоять</CAT_Fletcher_Crossbow.tools.0.label>
+
+  <CAT_Bullet_AcidBolt.label>кислотный болт</CAT_Bullet_AcidBolt.label>
+
+
+</LanguageData>

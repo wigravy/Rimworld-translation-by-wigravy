@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CAT_PlasmaAxe.label>plasma топор</CAT_PlasmaAxe.label>
+  <CAT_PlasmaAxe.label>плазменный топор</CAT_PlasmaAxe.label>
   <CAT_PlasmaAxe.description>Топорная модификация плазменного меча. Увеличенный вес повышает бронепробитие, но делает оружие более громоздким.</CAT_PlasmaAxe.description>
   <CAT_PlasmaAxe.tools.0.label>рукоять</CAT_PlasmaAxe.tools.0.label>
   <CAT_PlasmaAxe.tools.1.label>навершие</CAT_PlasmaAxe.tools.1.label>
   <CAT_PlasmaAxe.tools.2.label>лезвие</CAT_PlasmaAxe.tools.2.label>
 
-  <CAT_PlasmaHalberd.label>plasma алебарда</CAT_PlasmaHalberd.label>
+  <CAT_PlasmaHalberd.label>плазменная алебарда</CAT_PlasmaHalberd.label>
   <CAT_PlasmaHalberd.description>Тяжёлое древковое оружие с металлическим сердечником. Длинная дистанция и увеличенный вес делают его эффективным против бронированных целей.</CAT_PlasmaHalberd.description>
   <CAT_PlasmaHalberd.tools.0.label>рукоять</CAT_PlasmaHalberd.tools.0.label>
   <CAT_PlasmaHalberd.tools.1.label>навершие</CAT_PlasmaHalberd.tools.1.label>
   <CAT_PlasmaHalberd.tools.2.label>лезвие</CAT_PlasmaHalberd.tools.2.label>
 
-  <CAT_PlasmaKhopesh.label>plasma хопеш</CAT_PlasmaKhopesh.label>
+  <CAT_PlasmaKhopesh.label>плазменный хопеш</CAT_PlasmaKhopesh.label>
   <CAT_PlasmaKhopesh.description>Плазменное оружие экзотического дизайна, восходящего к древней Земле шеститысячелетней давности.</CAT_PlasmaKhopesh.description>
   <CAT_PlasmaKhopesh.tools.0.label>рукоять</CAT_PlasmaKhopesh.tools.0.label>
   <CAT_PlasmaKhopesh.tools.1.label>навершие</CAT_PlasmaKhopesh.tools.1.label>
   <CAT_PlasmaKhopesh.tools.2.label>лезвие</CAT_PlasmaKhopesh.tools.2.label>
 
-  <CAT_PlasmaScythe.label>plasma коса</CAT_PlasmaScythe.label>
+  <CAT_PlasmaScythe.label>плазменная коса</CAT_PlasmaScythe.label>
   <CAT_PlasmaScythe.description>Зловещее плазменное оружие, оставляющее глубокие прижжённые раны.</CAT_PlasmaScythe.description>
   <CAT_PlasmaScythe.tools.0.label>рукоять</CAT_PlasmaScythe.tools.0.label>
   <CAT_PlasmaScythe.tools.1.label>лезвие</CAT_PlasmaScythe.tools.1.label>
 
-  <CAT_PlasmaTwinBlades.label>plasma двулезвийный клинок</CAT_PlasmaTwinBlades.label>
+  <CAT_PlasmaTwinBlades.label>плазменный двулезвийный клинок</CAT_PlasmaTwinBlades.label>
   <CAT_PlasmaTwinBlades.description>Громоздкий двулезвийный плазменный клинок. В руках умелого бойца способен наносить быстрые атаки.</CAT_PlasmaTwinBlades.description>
   <CAT_PlasmaTwinBlades.tools.0.label>рукоять</CAT_PlasmaTwinBlades.tools.0.label>
   <CAT_PlasmaTwinBlades.tools.1.label>навершие</CAT_PlasmaTwinBlades.tools.1.label>
   <CAT_PlasmaTwinBlades.tools.2.label>лезвие</CAT_PlasmaTwinBlades.tools.2.label>
 
-  <CAT_PlasmaCleaver.label>plasma тесак</CAT_PlasmaCleaver.label>
+  <CAT_PlasmaCleaver.label>плазменный тесак</CAT_PlasmaCleaver.label>
   <CAT_PlasmaCleaver.description>Огромный плазменный клинок с длинной рукоятью. Большой вес усиливает разрушительную силу ударов.</CAT_PlasmaCleaver.description>
   <CAT_PlasmaCleaver.tools.0.label>рукоять</CAT_PlasmaCleaver.tools.0.label>
   <CAT_PlasmaCleaver.tools.1.label>навершие</CAT_PlasmaCleaver.tools.1.label>

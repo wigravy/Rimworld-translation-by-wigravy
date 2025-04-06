@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_GrievousToxCut.label>grievous cut</CAT_GrievousToxCut.label>
+  <CAT_GrievousToxCut.deathMessage>{0} has been slain.</CAT_GrievousToxCut.deathMessage>
+
+  <CAT_GrievousToxStab.label>grievous stab</CAT_GrievousToxStab.label>
+  <CAT_GrievousToxStab.deathMessage>{0} has been slain.</CAT_GrievousToxStab.deathMessage>
+
+
+</LanguageData>

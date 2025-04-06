@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CAT_MonoBastardSwordBladelink.label>полуторный mono синхромеч</CAT_MonoBastardSwordBladelink.label>
+  <CAT_MonoBastardSwordBladelink.label>полуторный синхромономеч</CAT_MonoBastardSwordBladelink.label>
   <CAT_MonoBastardSwordBladelink.description>Кристально-металлический полуторный меч, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Легко рассекает даже толстую броню, а увеличенное лезвие улучшает силу удара.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoBastardSwordBladelink.description>
   <CAT_MonoBastardSwordBladelink.tools.0.label>рукоять</CAT_MonoBastardSwordBladelink.tools.0.label>
   <CAT_MonoBastardSwordBladelink.tools.1.label>острие</CAT_MonoBastardSwordBladelink.tools.1.label>
   <CAT_MonoBastardSwordBladelink.tools.2.label>лезвие</CAT_MonoBastardSwordBladelink.tools.2.label>
 
-  <CAT_MonoBusterSwordBladelink.label>mono синхромеч-разрушитель</CAT_MonoBusterSwordBladelink.label>
+  <CAT_MonoBusterSwordBladelink.label>синхромономеч-разрушитель</CAT_MonoBusterSwordBladelink.label>
   <CAT_MonoBusterSwordBladelink.description>Огромный кристально-металлический клинок, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Это оружие одновременно тяжелое и разрушительное.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoBusterSwordBladelink.description>
   <CAT_MonoBusterSwordBladelink.tools.0.label>рукоять</CAT_MonoBusterSwordBladelink.tools.0.label>
   <CAT_MonoBusterSwordBladelink.tools.1.label>острие</CAT_MonoBusterSwordBladelink.tools.1.label>
   <CAT_MonoBusterSwordBladelink.tools.2.label>лезвие</CAT_MonoBusterSwordBladelink.tools.2.label>
 
-  <CAT_MonoWarSpearBladelink.label>mono боевое синхрокопье</CAT_MonoWarSpearBladelink.label>
+  <CAT_MonoWarSpearBladelink.label>боевое синхромонокопье</CAT_MonoWarSpearBladelink.label>
   <CAT_MonoWarSpearBladelink.description>Копьё с кристально-металлическим наконечником, насыщенным механитами для поддержания моно-молекулярной режущей кромки. Церемониальное, но смертоносное в умелых руках.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoWarSpearBladelink.description>
   <CAT_MonoWarSpearBladelink.tools.0.label>древко</CAT_MonoWarSpearBladelink.tools.0.label>
   <CAT_MonoWarSpearBladelink.tools.1.label>острие</CAT_MonoWarSpearBladelink.tools.1.label>
   <CAT_MonoWarSpearBladelink.tools.2.label>лезвие</CAT_MonoWarSpearBladelink.tools.2.label>
 
-  <CAT_MonoGlaiveBladelink.label>mono синхроглефа</CAT_MonoGlaiveBladelink.label>
+  <CAT_MonoGlaiveBladelink.label>синхромоноглефа</CAT_MonoGlaiveBladelink.label>
   <CAT_MonoGlaiveBladelink.description>Глефа с кристально-металлическим лезвием, насыщенным механитами для поддержания моно-молекулярной режущей кромки. Встроенный зарядный бластер превращает это оружие в смертоносный гибрид.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoGlaiveBladelink.description>
 <!--  <CAT_MonoGlaiveBladelink.comps.0.verbProps.0.label>выстрел заряженной глефы</CAT_MonoGlaiveBladelink.comps.0.verbProps.0.label>-->
@@ -31,9 +31,9 @@
   <CAT_MonoGlaiveBladelink.tools.1.label>острие</CAT_MonoGlaiveBladelink.tools.1.label>
   <CAT_MonoGlaiveBladelink.tools.2.label>лезвие</CAT_MonoGlaiveBladelink.tools.2.label>
 
-  <CAT_WhipClawBladelink.label>mono синхрокогтехлыст</CAT_WhipClawBladelink.label>
+  <CAT_WhipClawBladelink.label>синхромонокогтехлыст</CAT_WhipClawBladelink.label>
 
-  <CAT_MonoWhipClawBladelink.label>mono синхрокогтехлыст</CAT_MonoWhipClawBladelink.label>
+  <CAT_MonoWhipClawBladelink.label>синхромонокогтехлыст</CAT_MonoWhipClawBladelink.label>
   <CAT_MonoWhipClawBladelink.description>Экзотическое хлыстообразное оружие с кристально-металлическим лезвием, насыщенным механитами для поддержания моно-молекулярной режущей кромки. Неуклюжее, но способное выдвигаться для атаки на расстоянии.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoWhipClawBladelink.description>
 <!--  <CAT_MonoWhipClawBladelink.comps.0.verbProps.0.label>выдвижной когтехлыст</CAT_MonoWhipClawBladelink.comps.0.verbProps.0.label>-->
@@ -42,14 +42,14 @@
   <CAT_MonoWhipClawBladelink.tools.1.label>острие</CAT_MonoWhipClawBladelink.tools.1.label>
   <CAT_MonoWhipClawBladelink.tools.2.label>лезвие</CAT_MonoWhipClawBladelink.tools.2.label>
 
-  <CAT_MonoOdachiBladelink.label>mono синхроодати</CAT_MonoOdachiBladelink.label>
+  <CAT_MonoOdachiBladelink.label>синхромоноодати</CAT_MonoOdachiBladelink.label>
   <CAT_MonoOdachiBladelink.description>Длинный тонкий клинок, насыщенный механитами для поддержания моно-молекулярной режущей кромки. По слухам, лезвие выковано из тысячекратно сложенного пластали.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoOdachiBladelink.description>
   <CAT_MonoOdachiBladelink.tools.0.label>рукоять</CAT_MonoOdachiBladelink.tools.0.label>
   <CAT_MonoOdachiBladelink.tools.1.label>острие</CAT_MonoOdachiBladelink.tools.1.label>
   <CAT_MonoOdachiBladelink.tools.2.label>лезвие</CAT_MonoOdachiBladelink.tools.2.label>
 
-  <CAT_MonoChargeLanceBladelink.label>mono синхроэнергокопье</CAT_MonoChargeLanceBladelink.label>
+  <CAT_MonoChargeLanceBladelink.label>синхромоноэнергокопье</CAT_MonoChargeLanceBladelink.label>
   <CAT_MonoChargeLanceBladelink.description>Огромный кристально-металлический клинок, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Это громоздкое, но смертоносное оружие эффективно как в ближнем бою, так и на расстоянии благодаря встроенному модифицированному рельсотрону.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoChargeLanceBladelink.description>
   <CAT_MonoChargeLanceBladelink.comps.0.verbProps.0.label>рельсотронный выстрел</CAT_MonoChargeLanceBladelink.comps.0.verbProps.0.label>

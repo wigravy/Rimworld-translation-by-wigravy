@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CAT_PlasmaAxeBladelink.label>plasma синхротопор</CAT_PlasmaAxeBladelink.label>
+  <CAT_PlasmaAxeBladelink.label>плазменный синхротопор</CAT_PlasmaAxeBladelink.label>
   <CAT_PlasmaAxeBladelink.description>Топорная модификация плазменного меча. Увеличенный вес повышает бронепробитие, но делает оружие более громоздким.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaAxeBladelink.description>
   <CAT_PlasmaAxeBladelink.tools.0.label>рукоять</CAT_PlasmaAxeBladelink.tools.0.label>
   <CAT_PlasmaAxeBladelink.tools.1.label>навершие</CAT_PlasmaAxeBladelink.tools.1.label>
   <CAT_PlasmaAxeBladelink.tools.2.label>лезвие</CAT_PlasmaAxeBladelink.tools.2.label>
 
-  <CAT_PlasmaHalberdBladelink.label>plasma синхроалебарда</CAT_PlasmaHalberdBladelink.label>
+  <CAT_PlasmaHalberdBladelink.label>плазменная синхроалебарда</CAT_PlasmaHalberdBladelink.label>
   <CAT_PlasmaHalberdBladelink.description>Тяжёлое древковое оружие с металлическим сердечником. Длинная дистанция и увеличенный вес делают его эффективным против бронированных целей.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaHalberdBladelink.description>
   <CAT_PlasmaHalberdBladelink.tools.0.label>рукоять</CAT_PlasmaHalberdBladelink.tools.0.label>
   <CAT_PlasmaHalberdBladelink.tools.1.label>навершие</CAT_PlasmaHalberdBladelink.tools.1.label>
   <CAT_PlasmaHalberdBladelink.tools.2.label>лезвие</CAT_PlasmaHalberdBladelink.tools.2.label>
 
-  <CAT_PlasmaKhopeshBladelink.label>plasma синхрохопеш</CAT_PlasmaKhopeshBladelink.label>
+  <CAT_PlasmaKhopeshBladelink.label>плазменный синхрохопеш</CAT_PlasmaKhopeshBladelink.label>
   <CAT_PlasmaKhopeshBladelink.description>Плазменное оружие экзотического дизайна, восходящего к древней Земле шеститысячелетней давности.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaKhopeshBladelink.description>
   <CAT_PlasmaKhopeshBladelink.tools.0.label>рукоять</CAT_PlasmaKhopeshBladelink.tools.0.label>
   <CAT_PlasmaKhopeshBladelink.tools.1.label>навершие</CAT_PlasmaKhopeshBladelink.tools.1.label>
   <CAT_PlasmaKhopeshBladelink.tools.2.label>лезвие</CAT_PlasmaKhopeshBladelink.tools.2.label>
 
-  <CAT_PlasmaScytheBladelink.label>plasma синхрокоса</CAT_PlasmaScytheBladelink.label>
+  <CAT_PlasmaScytheBladelink.label>плазменная синхрокоса</CAT_PlasmaScytheBladelink.label>
   <CAT_PlasmaScytheBladelink.description>Зловещее плазменное оружие, оставляющее глубокие прижжённые раны.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaScytheBladelink.description>
   <CAT_PlasmaScytheBladelink.tools.0.label>рукоять</CAT_PlasmaScytheBladelink.tools.0.label>
   <CAT_PlasmaScytheBladelink.tools.1.label>лезвие</CAT_PlasmaScytheBladelink.tools.1.label>
 
-  <CAT_PlasmaTwinBladesBladelink.label>plasma двулезвийный синхроклинок</CAT_PlasmaTwinBladesBladelink.label>
+  <CAT_PlasmaTwinBladesBladelink.label>плазменный двулезвийный синхроклинок</CAT_PlasmaTwinBladesBladelink.label>
   <CAT_PlasmaTwinBladesBladelink.description>Громоздкий двулезвийный плазменный клинок. В руках умелого бойца способен наносить быстрые атаки.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaTwinBladesBladelink.description>
   <CAT_PlasmaTwinBladesBladelink.tools.0.label>рукоять</CAT_PlasmaTwinBladesBladelink.tools.0.label>
   <CAT_PlasmaTwinBladesBladelink.tools.1.label>навершие</CAT_PlasmaTwinBladesBladelink.tools.1.label>
   <CAT_PlasmaTwinBladesBladelink.tools.2.label>лезвие</CAT_PlasmaTwinBladesBladelink.tools.2.label>
 
-  <CAT_PlasmaCleaverBladelink.label>plasma синхротесак</CAT_PlasmaCleaverBladelink.label>
+  <CAT_PlasmaCleaverBladelink.label>плазменный синхротесак</CAT_PlasmaCleaverBladelink.label>
   <CAT_PlasmaCleaverBladelink.description>Огромный плазменный клинок с длинной рукоятью. Большой вес усиливает разрушительную силу ударов.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_PlasmaCleaverBladelink.description>
   <CAT_PlasmaCleaverBladelink.tools.0.label>рукоять</CAT_PlasmaCleaverBladelink.tools.0.label>

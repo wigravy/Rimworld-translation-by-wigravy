@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CAT_ToxRapier.label>токсичная рапира</CAT_ToxRapier.label>
+  <CAT_ToxRapier.description>Коварное оружие космических убийц и наёмников. Сочетает лезвие, насыщенное механитами, с эффектом кислотного распада.</CAT_ToxRapier.description>
+  <CAT_ToxRapier.tools.0.label>рукоять</CAT_ToxRapier.tools.0.label>
+  <CAT_ToxRapier.tools.1.label>навершие</CAT_ToxRapier.tools.1.label>
+  <CAT_ToxRapier.tools.2.label>клинок</CAT_ToxRapier.tools.2.label>
+
+  <CAT_ToxCurvedBlade.label>токсичный изогнутый клинок</CAT_ToxCurvedBlade.label>
+  <CAT_ToxCurvedBlade.description>Быстрый изогнутый клинок с заточенной кромкой, насыщенной механитами и кислотным эффектом.</CAT_ToxCurvedBlade.description>
+  <CAT_ToxCurvedBlade.tools.0.label>рукоять</CAT_ToxCurvedBlade.tools.0.label>
+  <CAT_ToxCurvedBlade.tools.1.label>навершие</CAT_ToxCurvedBlade.tools.1.label>
+  <CAT_ToxCurvedBlade.tools.2.label>клинок</CAT_ToxCurvedBlade.tools.2.label>
+
+  <CAT_ToxScythe.label>токсичная коса</CAT_ToxScythe.label>
+  <CAT_ToxScythe.description>Зловещая коса с лезвием, насыщенным механитами и кислотным эффектом.</CAT_ToxScythe.description>
+  <CAT_ToxScythe.tools.0.label>рукоять</CAT_ToxScythe.tools.0.label>
+  <CAT_ToxScythe.tools.1.label>клинок</CAT_ToxScythe.tools.1.label>
+
+  <CAT_ToxGauntlet.label>токсичная перчатка</CAT_ToxGauntlet.label>
+  <CAT_ToxGauntlet.description>Перчатка с выдвижным лезвием, насыщенным кислотными механитами, и встроенным метателем игл.</CAT_ToxGauntlet.description>
+<!--  <CAT_ToxGauntlet.comps.0.verbProps.0.label>fletcher dart</CAT_ToxGauntlet.comps.0.verbProps.0.label>-->
+  <CAT_ToxGauntlet.verbs.0.label>метательная игла</CAT_ToxGauntlet.verbs.0.label>
+  <CAT_ToxGauntlet.tools.0.label>навершие</CAT_ToxGauntlet.tools.0.label>
+
+  <CAT_ToxSpinningBlade.label>токсичный вращающийся клинок</CAT_ToxSpinningBlade.label>
+
+  <CAT_ToxTriblade.label>токсичный трехлезвийный клинок</CAT_ToxTriblade.label>
+  <CAT_ToxTriblade.description>Громоздкий токсичный клинок, требующий серьёзной подготовки для эффективного использования.</CAT_ToxTriblade.description>
+<!--  <CAT_ToxTriblade.comps.0.verbProps.0.label>tox spinning blade</CAT_ToxTriblade.comps.0.verbProps.0.label>-->
+  <CAT_ToxTriblade.verbs.0.label>токсичный вращающийся клинок</CAT_ToxTriblade.verbs.0.label>
+  <CAT_ToxTriblade.tools.0.label>навершие</CAT_ToxTriblade.tools.0.label>
+
+
+</LanguageData>
