@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CAT_MonoStellicSwordBladelink.label>престижный stellic мономеч</CAT_MonoStellicSwordBladelink.label>
-  <CAT_MonoStellicSwordBladelink.description>An incredibly well crafted weapon, its crystal-metallic blade is infused with mechanites that maintain a mono-molecular cutting edge. This weapon symbolizes the trust of a royal to their vassal.
+  <CAT_MonoStellicSwordBladelink.label>престижный stellic синхромономеч</CAT_MonoStellicSwordBladelink.label>
+  <CAT_MonoStellicSwordBladelink.description>Исключительно искусно изготовленное оружие с кристально-металлическим клинком, насыщенным механитами для поддержания моно-молекулярной режущей кромки. Символизирует доверие монарха к своему вассалу.
 \nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoStellicSwordBladelink.description>
   <CAT_MonoStellicSwordBladelink.tools.0.label>рукоять</CAT_MonoStellicSwordBladelink.tools.0.label>
   <CAT_MonoStellicSwordBladelink.tools.1.label>острие</CAT_MonoStellicSwordBladelink.tools.1.label>
   <CAT_MonoStellicSwordBladelink.tools.2.label>лезвие</CAT_MonoStellicSwordBladelink.tools.2.label>
 
-  <CAT_MonoStellicSpearBladelink.label>престижный stellic spear</CAT_MonoStellicSpearBladelink.label>
-  <CAT_MonoStellicSpearBladelink.description>An incredibly well crafted spear with crystal-metallic blade infused with mechanites. This weapon symbolizes the trust of a royal to their vassal.
+  <CAT_MonoStellicSpearBladelink.label>престижный stellic синхрокопье</CAT_MonoStellicSpearBladelink.label>
+  <CAT_MonoStellicSpearBladelink.description>Исключительно искусно изготовленное копьё с кристально-металлическим наконечником, насыщенным механитами. Это оружие символизирует доверие монарха к своему вассалу.
 	\nЭто оружие обладает встроенной ИИ-личностью, которая может привязаться только к одному человеку. Владелец и оружие синхронизируют свои рефлексы, получая возможность атаковать с ужасающей скоростью, точностью и изобретательностью. После формирования связи оружие откажется работать в чужих руках.</CAT_MonoStellicSpearBladelink.description>
-  <CAT_MonoStellicSpearBladelink.tools.0.label>ствол</CAT_MonoStellicSpearBladelink.tools.0.label>
+  <CAT_MonoStellicSpearBladelink.tools.0.label>древко</CAT_MonoStellicSpearBladelink.tools.0.label>
   <CAT_MonoStellicSpearBladelink.tools.1.label>острие</CAT_MonoStellicSpearBladelink.tools.1.label>
   <CAT_MonoStellicSpearBladelink.tools.2.label>лезвие</CAT_MonoStellicSpearBladelink.tools.2.label>
 

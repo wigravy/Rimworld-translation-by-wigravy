@@ -19,21 +19,21 @@
   <CAT_MonoWarSpear.tools.1.label>острие</CAT_MonoWarSpear.tools.1.label>
   <CAT_MonoWarSpear.tools.2.label>лезвие</CAT_MonoWarSpear.tools.2.label>
 
-  <CAT_ChargeShotBlast.label>зарядить выстрел</CAT_ChargeShotBlast.label>
+  <CAT_ChargeShotBlast.label>заряженный выстрел</CAT_ChargeShotBlast.label>
 
   <CAT_MonoGlaive.label>mono глефа</CAT_MonoGlaive.label>
   <CAT_MonoGlaive.description>Глефа с кристально-металлическим лезвием, насыщенным механитами для поддержания моно-молекулярной режущей кромки. Встроенный зарядный бластер превращает это оружие в смертоносный гибрид.</CAT_MonoGlaive.description>
-  <CAT_MonoGlaive.comps.0.verbProps.0.label>выстрел заряженной глефы</CAT_MonoGlaive.comps.0.verbProps.0.label>
+<!--  <CAT_MonoGlaive.comps.0.verbProps.0.label>выстрел заряженной глефы</CAT_MonoGlaive.comps.0.verbProps.0.label>-->
   <CAT_MonoGlaive.verbs.0.label>выстрел заряженной глефы</CAT_MonoGlaive.verbs.0.label>
   <CAT_MonoGlaive.tools.0.label>древко</CAT_MonoGlaive.tools.0.label>
   <CAT_MonoGlaive.tools.1.label>острие</CAT_MonoGlaive.tools.1.label>
   <CAT_MonoGlaive.tools.2.label>лезвие</CAT_MonoGlaive.tools.2.label>
 
-  <CAT_WhipClaw.label>mono когтехлыст </CAT_WhipClaw.label>
+  <CAT_WhipClaw.label>mono когтехлыст</CAT_WhipClaw.label>
 
   <CAT_MonoWhipClaw.label>mono когтехлыст</CAT_MonoWhipClaw.label>
   <CAT_MonoWhipClaw.description>Экзотическое хлыстообразное оружие с кристально-металлическим лезвием, насыщенным механитами для поддержания моно-молекулярной режущей кромки. Неуклюжее, но способное выдвигаться для атаки на расстоянии.</CAT_MonoWhipClaw.description>
-  <CAT_MonoWhipClaw.comps.0.verbProps.0.label>выдвижной когтехлыст</CAT_MonoWhipClaw.comps.0.verbProps.0.label>
+<!--  <CAT_MonoWhipClaw.comps.0.verbProps.0.label>выдвижной когтехлыст</CAT_MonoWhipClaw.comps.0.verbProps.0.label>-->
   <CAT_MonoWhipClaw.verbs.0.label>выдвижной когтехлыст</CAT_MonoWhipClaw.verbs.0.label>
   <CAT_MonoWhipClaw.tools.0.label>ствол</CAT_MonoWhipClaw.tools.0.label>
   <CAT_MonoWhipClaw.tools.1.label>острие</CAT_MonoWhipClaw.tools.1.label>
@@ -48,8 +48,8 @@
   <CAT_ChargeLanceRail.label>рельсотронный выстрел</CAT_ChargeLanceRail.label>
 
   <CAT_MonoChargeLance.label>mono энергокопье</CAT_MonoChargeLance.label>
-  <CAT_MonoChargeLance.description>Огромный кристально-металлический клинок, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Это громоздкое, но смертоносное оружие эффективно как в ближнем бою, так и на расстоянии благодаря встроенному модифицированному зарядно-кинетическому оружию.</CAT_MonoChargeLance.description>
-  <CAT_MonoChargeLance.comps.0.verbProps.0.label>рельсотронный выстрел</CAT_MonoChargeLance.comps.0.verbProps.0.label>
+  <CAT_MonoChargeLance.description>Огромный кристально-металлический клинок, насыщенный механитами для поддержания моно-молекулярной режущей кромки. Это громоздкое, но смертоносное оружие эффективно как в ближнем бою, так и на расстоянии благодаря встроенному модифицированному рельсотрону.</CAT_MonoChargeLance.description>
+<!--  <CAT_MonoChargeLance.comps.0.verbProps.0.label>рельсотронный выстрел</CAT_MonoChargeLance.comps.0.verbProps.0.label>-->
   <CAT_MonoChargeLance.verbs.0.label>рельсотронный выстрел</CAT_MonoChargeLance.verbs.0.label>
   <CAT_MonoChargeLance.tools.0.label>рукоять</CAT_MonoChargeLance.tools.0.label>
   <CAT_MonoChargeLance.tools.1.label>острие</CAT_MonoChargeLance.tools.1.label>
